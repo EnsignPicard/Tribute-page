@@ -34,3 +34,11 @@ main {
 #title {
   text-align: center;
 }
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
