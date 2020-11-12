@@ -1,0 +1,30 @@
+#image {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#img-div {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+
+ #tribute-info {
+   text-align: justify;
+   max-width: 50%;
+ }
+ 
+#title {
+  text-align: center;
+}
